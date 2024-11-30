@@ -1,0 +1,5 @@
+plots/*
+results/*
+venv/
+.idea/
+__pycache__/
