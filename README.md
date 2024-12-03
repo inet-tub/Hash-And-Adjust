@@ -1,4 +1,6 @@
-# LoBen
+# Hash-And-Adjust
+
+![Figure 5a](plots/5a.pdf "Fig. 5a")
 
 ## Dependencies
 
