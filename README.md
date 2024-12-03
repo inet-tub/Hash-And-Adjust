@@ -1,6 +1,12 @@
 # Hash-And-Adjust
 
-![Figure 5a](plots/5a.pdf "Fig. 5a")
+Experimentation-code for the publication "Hash & Adjust: Competitive Demand-Aware Consistent Hashing".
+
+Distributed systems handling dynamic workloads require adaptive mechanisms. 
+We leverage consistent hashing to develop H&A, a demand-aware, constant-competitive algorithm that enhances 
+storage utilization and access efficiency while providing robust performance guarantees.
+
+![Figure 5a](plots/5a.png "Fig. 5a")
 
 ## Dependencies
 
